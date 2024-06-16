@@ -7,3 +7,6 @@
  - H2 Database
  - OpenAPI/Swagger
  - OpenFeign
+
+## Acessando a API
+ > Ao rodar o  código, acessar https://localhost/swagger-ui.html#/
